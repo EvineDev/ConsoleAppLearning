@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppI": {
+      "commandName": "Project",
+      "commandLineArgs": "to ord eller fleire"
+    }
+  }
+}
